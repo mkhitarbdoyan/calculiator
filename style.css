@@ -1,0 +1,38 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.clear{
+    width:345px
+}
+#calculiator{
+    width: 600px;
+    padding: 20px;
+    background: rgb(81, 26, 4);
+    border: 4px solid black;
+    border-radius: 40px 20px 40px 20px;
+}
+.result {
+    border: 600px;
+    font-size: 4em;
+    border-radius:  20px;
+    background:blanchedalmond;
+    text-align: right;
+    padding: 0px 10px;
+    min-height: 120px;
+    width:95%;
+
+}
+.row{
+    margin: 10px;
+
+}
+button{
+    padding: 16px 35px;
+    background: seashell;
+    font-size: 2em;
+    margin-left: 40px;
+    margin-top: 10px;
+    font-weight: bolder;
+    border: 3px solid black;
+    border-radius: 10px;
+}
